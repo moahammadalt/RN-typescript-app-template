@@ -1,4 +1,4 @@
-This project is a simple template application written in react native with some built-in features
+This project is a simple template application written in react native and typescript with some built-in features
 
 ## Available Features
 
